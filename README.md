@@ -14,7 +14,7 @@ Building **OnyxDrift** — a hands-free, AI-driven social media platform focused
 ---
 
 ### 📌 Core Project Highlights
-- **OnyxDrift:** Developing the core application codebases, zero-typing interface models, and collaborative AI automation engines.
+- **my-app:** Developing the core application codebases, zero-typing interface models, and collaborative AI automation engines.
 
 ---
 
